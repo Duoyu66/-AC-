@@ -211,21 +211,3 @@ int main() {
 
 这样，大家应该对程序超时时候的数据规模有一个整体的认识了。
 
-## 其他语言版本
-
-
-Java：
-
-
-Python：
-
-
-Go：
-
-
-
-
-<p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
-</a>
